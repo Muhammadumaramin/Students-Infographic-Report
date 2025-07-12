@@ -1,0 +1,706 @@
+Student_ID,Age,Gender,Academic_Level,Country,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Relationship_Status,Conflicts_Over_Social_Media,Addicted_Score,Age Group,Addiction Level,Mental Health Category,Sleep Category
+1,19,Female,Undergraduate,Bangladesh,5.2,Instagram,Yes,6.5,6,In Relationship,3,8,18-20,High,Fair,Normal
+2,22,Male,Graduate,India,2.1,Twitter,No,7.5,8,Single,0,3,21-22,Low,Good,Normal
+3,20,Female,Undergraduate,USA,6,TikTok,Yes,5,5,Complicated,4,9,18-20,High,Fair,Insufficient
+4,18,Male,High School,UK,3,YouTube,No,7,7,Single,1,4,18-20,Medium,Good,Normal
+5,21,Male,Graduate,Canada,4.5,Facebook,Yes,6,6,In Relationship,2,7,21-22,High,Fair,Normal
+6,19,Female,Undergraduate,Australia,7.2,Instagram,Yes,4.5,4,Complicated,5,9,18-20,High,Poor,Insufficient
+7,23,Male,Graduate,Germany,1.5,LinkedIn,No,8,9,Single,0,2,23-24,Low,Good,Normal
+8,20,Female,Undergraduate,Brazil,5.8,Snapchat,Yes,6,6,In Relationship,2,8,18-20,High,Fair,Normal
+9,18,Male,High School,Japan,4,TikTok,No,6.5,7,Single,1,5,18-20,Medium,Good,Normal
+10,21,Female,Graduate,South Korea,3.3,Instagram,No,7,7,In Relationship,1,4,21-22,Medium,Good,Normal
+11,19,Male,Undergraduate,France,4.8,Snapchat,Yes,6.2,5,Complicated,3,7,18-20,High,Fair,Normal
+12,20,Female,Undergraduate,Spain,5.5,TikTok,Yes,5.8,6,In Relationship,2,8,18-20,High,Fair,Insufficient
+13,22,Male,Graduate,Italy,2.8,LinkedIn,No,7.2,8,Single,1,4,21-22,Medium,Good,Normal
+14,18,Female,High School,Mexico,6.5,Instagram,Yes,5.5,5,Single,4,9,18-20,High,Fair,Insufficient
+15,21,Male,Undergraduate,Russia,3.7,YouTube,No,6.8,7,In Relationship,2,5,21-22,Medium,Good,Normal
+16,20,Female,Undergraduate,China,4.2,TikTok,Yes,6,6,Complicated,3,7,18-20,High,Fair,Normal
+17,24,Male,Graduate,Sweden,2,LinkedIn,No,7.8,8,Single,0,3,23-24,Low,Good,Normal
+18,19,Female,High School,Norway,5,Instagram,Yes,5.7,5,In Relationship,3,8,18-20,High,Fair,Insufficient
+19,21,Male,Undergraduate,Denmark,3.5,Facebook,No,6.7,7,Single,1,5,21-22,Medium,Good,Normal
+20,20,Female,Undergraduate,Netherlands,4.7,Snapchat,Yes,5.9,6,Complicated,3,7,18-20,High,Fair,Insufficient
+21,18,Male,High School,Belgium,5.3,TikTok,Yes,5.5,5,Single,4,8,18-20,High,Fair,Insufficient
+22,23,Female,Graduate,Switzerland,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,23-24,Medium,Good,Normal
+23,19,Male,Undergraduate,Austria,4.9,Instagram,Yes,5.8,6,Complicated,3,7,18-20,High,Fair,Insufficient
+24,20,Female,Undergraduate,Portugal,5.7,TikTok,Yes,5.4,5,Single,4,8,18-20,High,Fair,Insufficient
+25,22,Male,Graduate,Greece,3.2,Facebook,No,6.9,7,In Relationship,2,5,21-22,Medium,Good,Normal
+26,19,Female,High School,Ireland,6.1,Instagram,Yes,5.2,5,Complicated,4,9,18-20,High,Fair,Insufficient
+27,21,Male,Undergraduate,New Zealand,3.8,YouTube,No,6.6,7,Single,1,5,21-22,Medium,Good,Normal
+28,20,Female,Undergraduate,Singapore,4.4,TikTok,Yes,5.9,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+29,24,Male,Graduate,Malaysia,2.2,LinkedIn,No,7.4,8,Single,0,3,23-24,Low,Good,Normal
+30,19,Female,High School,Thailand,5.9,Instagram,Yes,5.3,5,Complicated,4,8,18-20,High,Fair,Insufficient
+31,21,Male,Undergraduate,Vietnam,3.6,Facebook,No,6.7,7,Single,1,5,21-22,Medium,Good,Normal
+32,20,Female,Undergraduate,Philippines,4.8,Snapchat,Yes,5.7,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+33,18,Male,High School,Indonesia,5.4,TikTok,Yes,5.4,5,Complicated,4,8,18-20,High,Fair,Insufficient
+34,23,Female,Graduate,Taiwan,2.6,LinkedIn,No,7.2,8,Single,1,4,23-24,Medium,Good,Normal
+35,19,Male,Undergraduate,Hong Kong,4.7,Instagram,Yes,5.8,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+36,20,Female,Undergraduate,Turkey,5.6,TikTok,Yes,5.5,5,Complicated,4,8,18-20,High,Fair,Insufficient
+37,22,Male,Graduate,Israel,3.1,Facebook,No,6.8,7,Single,1,5,21-22,Medium,Good,Normal
+38,19,Female,High School,UAE,6.2,Instagram,Yes,5.1,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+39,21,Male,Undergraduate,Egypt,3.9,YouTube,No,6.5,7,Complicated,2,6,21-22,Medium,Good,Normal
+40,20,Female,Undergraduate,Morocco,4.5,TikTok,Yes,5.8,6,Single,3,7,18-20,High,Fair,Insufficient
+41,24,Male,Graduate,South Africa,2.3,LinkedIn,No,7.3,8,In Relationship,1,4,23-24,Medium,Good,Normal
+42,19,Female,High School,Nigeria,5.8,Instagram,Yes,5.4,5,Complicated,4,8,18-20,High,Fair,Insufficient
+43,21,Male,Undergraduate,Kenya,3.7,Facebook,No,6.6,7,Single,2,5,21-22,Medium,Good,Normal
+44,20,Female,Undergraduate,Ghana,4.6,Snapchat,Yes,5.7,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+45,18,Male,High School,Argentina,5.5,TikTok,Yes,5.3,5,Single,4,8,18-20,High,Fair,Insufficient
+46,23,Female,Graduate,Chile,2.7,LinkedIn,No,7.1,8,Complicated,1,4,23-24,Medium,Good,Normal
+47,19,Male,Undergraduate,Colombia,4.8,Instagram,Yes,5.9,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+48,20,Female,Undergraduate,Peru,5.5,TikTok,Yes,5.6,5,Single,4,8,18-20,High,Fair,Insufficient
+49,22,Male,Graduate,Venezuela,3.3,Facebook,No,6.7,7,In Relationship,2,5,21-22,Medium,Good,Normal
+50,19,Female,High School,Ecuador,6.3,Instagram,Yes,5.2,5,Complicated,4,9,18-20,High,Fair,Insufficient
+51,21,Male,Undergraduate,Uruguay,3.8,YouTube,No,6.4,7,Single,2,6,21-22,Medium,Good,Normal
+52,20,Female,Undergraduate,Paraguay,4.7,TikTok,Yes,5.8,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+53,24,Male,Graduate,Bolivia,2.4,LinkedIn,No,7.2,8,Complicated,1,4,23-24,Medium,Good,Normal
+54,19,Female,High School,Costa Rica,5.7,Instagram,Yes,5.5,5,Single,4,8,18-20,High,Fair,Insufficient
+55,21,Male,Undergraduate,Panama,3.6,Facebook,No,6.5,7,In Relationship,2,5,21-22,Medium,Good,Normal
+56,20,Female,Undergraduate,Jamaica,4.9,Snapchat,Yes,5.6,6,Complicated,3,7,18-20,High,Fair,Insufficient
+57,18,Male,High School,Trinidad,5.6,TikTok,Yes,5.2,5,Single,4,8,18-20,High,Fair,Insufficient
+58,23,Female,Graduate,Bahamas,2.8,LinkedIn,No,7,8,In Relationship,1,4,23-24,Medium,Good,Normal
+59,19,Male,Undergraduate,Iceland,4.6,Instagram,Yes,5.9,6,Complicated,3,7,18-20,High,Fair,Insufficient
+60,20,Female,Undergraduate,Finland,5.4,TikTok,Yes,5.7,5,Single,4,8,18-20,High,Fair,Insufficient
+61,22,Male,Graduate,Poland,3.1,Facebook,No,7.1,7,Single,1,5,21-22,Medium,Good,Normal
+62,19,Female,Undergraduate,Romania,5.6,Instagram,Yes,5.6,5,In Relationship,3,8,18-20,High,Fair,Insufficient
+63,20,Male,Undergraduate,Hungary,4.2,TikTok,Yes,6,6,Complicated,3,7,18-20,High,Fair,Normal
+64,18,Female,High School,Czech Republic,6.1,Snapchat,Yes,5.2,4,Single,4,9,18-20,High,Poor,Insufficient
+65,23,Male,Graduate,Slovakia,2.3,LinkedIn,No,7.4,8,In Relationship,1,3,23-24,Low,Good,Normal
+66,21,Female,Undergraduate,Croatia,4.8,Instagram,Yes,5.8,6,Single,3,7,21-22,High,Fair,Insufficient
+67,20,Male,Undergraduate,Serbia,3.9,YouTube,No,6.5,7,Complicated,2,6,18-20,Medium,Good,Normal
+68,19,Female,High School,Slovenia,5.7,TikTok,Yes,5.4,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+69,22,Male,Graduate,Bulgaria,2.8,LinkedIn,No,7.2,8,Single,1,4,21-22,Medium,Good,Normal
+70,20,Female,Undergraduate,Estonia,4.5,Instagram,Yes,5.9,6,Complicated,3,7,18-20,High,Fair,Insufficient
+71,18,Male,High School,Latvia,5.4,Snapchat,Yes,5.5,5,Single,4,8,18-20,High,Fair,Insufficient
+72,21,Female,Graduate,Lithuania,3.2,Facebook,No,6.8,7,In Relationship,2,5,21-22,Medium,Good,Normal
+73,19,Male,Undergraduate,Ukraine,4.9,TikTok,Yes,5.7,6,Complicated,3,7,18-20,High,Fair,Insufficient
+74,20,Female,Undergraduate,Moldova,5.8,Instagram,Yes,5.3,5,Single,4,8,18-20,High,Fair,Insufficient
+75,23,Male,Graduate,Belarus,2.5,LinkedIn,No,7.3,8,In Relationship,1,4,23-24,Medium,Good,Normal
+76,21,Female,Undergraduate,Kazakhstan,4.6,Snapchat,Yes,5.8,6,Single,3,7,21-22,High,Fair,Insufficient
+77,19,Male,High School,Uzbekistan,5.5,TikTok,Yes,5.4,5,Complicated,4,8,18-20,High,Fair,Insufficient
+78,22,Female,Graduate,Kyrgyzstan,2.9,Facebook,No,7,7,In Relationship,2,5,21-22,Medium,Good,Normal
+79,20,Male,Undergraduate,Tajikistan,4.7,YouTube,Yes,5.9,6,Single,3,7,18-20,High,Fair,Insufficient
+80,18,Female,High School,Armenia,5.9,Instagram,Yes,5.2,5,Complicated,4,9,18-20,High,Fair,Insufficient
+81,21,Male,Graduate,Georgia,3,LinkedIn,No,7.1,8,In Relationship,1,4,21-22,Medium,Good,Normal
+82,19,Female,Undergraduate,Azerbaijan,4.8,TikTok,Yes,5.7,6,Single,3,7,18-20,High,Fair,Insufficient
+83,20,Male,Undergraduate,Cyprus,3.8,Facebook,No,6.6,7,Complicated,2,6,18-20,Medium,Good,Normal
+84,22,Female,Graduate,Malta,2.7,LinkedIn,No,7.2,8,In Relationship,1,4,21-22,Medium,Good,Normal
+85,18,Male,High School,Luxembourg,5.6,Snapchat,Yes,5.3,5,Single,4,8,18-20,High,Fair,Insufficient
+86,21,Female,Undergraduate,Monaco,4.5,Instagram,Yes,5.8,6,Complicated,3,7,21-22,High,Fair,Insufficient
+87,19,Male,High School,Andorra,5.3,TikTok,Yes,5.5,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+88,23,Female,Graduate,San Marino,2.6,LinkedIn,No,7.3,8,Single,1,4,23-24,Medium,Good,Normal
+89,20,Male,Undergraduate,Vatican City,4.4,YouTube,Yes,6,6,Complicated,3,7,18-20,High,Fair,Normal
+90,18,Female,High School,Liechtenstein,5.8,Instagram,Yes,5.2,5,Single,4,9,18-20,High,Fair,Insufficient
+91,22,Male,Graduate,Montenegro,2.9,Facebook,No,7,7,In Relationship,2,5,21-22,Medium,Good,Normal
+92,19,Female,Undergraduate,Albania,4.7,TikTok,Yes,5.8,6,Complicated,3,7,18-20,High,Fair,Insufficient
+93,21,Male,Undergraduate,North Macedonia,3.7,Snapchat,No,6.5,7,Single,2,6,21-22,Medium,Good,Normal
+94,20,Female,High School,Kosovo,5.5,Instagram,Yes,5.4,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+95,23,Male,Graduate,Bosnia,2.4,LinkedIn,No,7.4,8,Complicated,1,4,23-24,Medium,Good,Normal
+96,19,Female,Undergraduate,Qatar,4.9,TikTok,Yes,5.7,6,Single,3,7,18-20,High,Fair,Insufficient
+97,18,Male,High School,Kuwait,5.7,Snapchat,Yes,5.3,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+98,22,Female,Graduate,Bahrain,2.8,LinkedIn,No,7.1,8,Complicated,1,4,21-22,Medium,Good,Normal
+99,20,Male,Undergraduate,Oman,4.6,Instagram,Yes,5.9,6,Single,3,7,18-20,High,Fair,Insufficient
+100,21,Female,Undergraduate,Jordan,5.4,TikTok,Yes,5.5,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+101,19,Male,High School,Lebanon,5.8,YouTube,Yes,5.2,5,Complicated,4,9,18-20,High,Fair,Insufficient
+102,23,Female,Graduate,Iraq,2.5,LinkedIn,No,7.3,8,Single,1,4,23-24,Medium,Good,Normal
+103,20,Male,Undergraduate,Yemen,4.7,Facebook,Yes,5.8,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+104,18,Female,High School,Syria,5.6,Instagram,Yes,5.4,5,Single,4,8,18-20,High,Fair,Insufficient
+105,22,Male,Graduate,Afghanistan,2.9,LinkedIn,No,7,7,Complicated,2,5,21-22,Medium,Good,Normal
+106,19,Female,Undergraduate,Pakistan,4.8,TikTok,Yes,5.7,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+107,21,Male,Undergraduate,Nepal,3.8,YouTube,No,6.6,7,Single,2,6,21-22,Medium,Good,Normal
+108,20,Female,High School,Bhutan,5.5,Snapchat,Yes,5.5,5,Complicated,4,8,18-20,High,Fair,Insufficient
+109,23,Male,Graduate,Sri Lanka,2.6,LinkedIn,No,7.2,8,In Relationship,1,4,23-24,Medium,Good,Normal
+110,19,Female,Undergraduate,Maldives,4.9,Instagram,Yes,5.8,6,Single,3,7,18-20,High,Fair,Insufficient
+111,20,Male,Undergraduate,Bangladesh,6.1,Instagram,Yes,6.2,5,Single,4,8,18-20,High,Fair,Normal
+112,21,Female,Undergraduate,India,5.8,TikTok,Yes,5.9,6,In Relationship,3,7,21-22,High,Fair,Insufficient
+113,19,Male,Undergraduate,Nepal,4.9,Facebook,No,7.1,7,Single,2,5,18-20,Medium,Good,Normal
+114,22,Female,Graduate,Pakistan,5.5,Instagram,Yes,6,5,Single,4,8,21-22,High,Fair,Normal
+115,20,Male,Undergraduate,Sri Lanka,5.2,TikTok,Yes,6.3,6,In Relationship,3,7,18-20,High,Fair,Normal
+116,19,Female,Undergraduate,Maldives,4.8,Instagram,No,7.2,8,Single,2,5,18-20,Medium,Good,Normal
+117,21,Male,Graduate,Bangladesh,6,Facebook,Yes,5.8,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+118,20,Female,Undergraduate,India,5.7,Instagram,Yes,6.1,6,Single,3,7,18-20,High,Fair,Normal
+119,22,Male,Graduate,Nepal,4.7,TikTok,No,7.3,7,Single,2,5,21-22,Medium,Good,Normal
+120,19,Female,Undergraduate,Pakistan,5.4,Instagram,Yes,6.2,5,In Relationship,4,8,18-20,High,Fair,Normal
+121,20,Male,Undergraduate,Sri Lanka,5.9,Facebook,Yes,5.9,6,Single,3,7,18-20,High,Fair,Insufficient
+122,21,Female,Graduate,Maldives,4.6,Instagram,No,7.4,8,In Relationship,2,5,21-22,Medium,Good,Normal
+123,19,Male,Undergraduate,Bangladesh,5.3,TikTok,Yes,6.3,5,Single,4,8,18-20,High,Fair,Normal
+124,22,Female,Graduate,India,5.8,Instagram,Yes,5.8,6,In Relationship,3,7,21-22,High,Fair,Insufficient
+125,20,Male,Undergraduate,Nepal,4.5,Facebook,No,7.5,7,Single,2,5,18-20,Medium,Good,Normal
+126,21,Female,Graduate,Pakistan,5.2,Instagram,Yes,6.4,5,In Relationship,4,8,21-22,High,Fair,Normal
+127,19,Male,Undergraduate,Sri Lanka,5.7,TikTok,Yes,5.7,6,Single,3,7,18-20,High,Fair,Insufficient
+128,20,Female,Undergraduate,Maldives,4.4,Instagram,No,7.6,8,In Relationship,2,5,18-20,Medium,Good,Normal
+129,22,Male,Graduate,Bangladesh,5.1,Facebook,Yes,6.5,5,Single,4,8,21-22,High,Fair,Normal
+130,21,Female,Graduate,India,5.6,Instagram,Yes,5.6,6,In Relationship,3,7,21-22,High,Fair,Insufficient
+131,19,Male,Undergraduate,Nepal,4.3,TikTok,No,7.7,7,Single,2,5,18-20,Medium,Good,Normal
+132,20,Female,Undergraduate,Pakistan,5,Instagram,Yes,6.6,5,In Relationship,4,8,18-20,High,Fair,Normal
+133,22,Male,Graduate,Sri Lanka,5.5,Facebook,Yes,5.5,6,Single,3,7,21-22,High,Fair,Insufficient
+134,21,Female,Graduate,Maldives,4.2,Instagram,No,7.8,8,In Relationship,2,5,21-22,Medium,Good,Normal
+135,19,Male,Undergraduate,Bangladesh,4.9,TikTok,Yes,6.7,5,Single,4,8,18-20,High,Fair,Normal
+136,20,Female,Undergraduate,India,5.4,Instagram,Yes,5.4,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+137,22,Male,Graduate,Nepal,4.1,Facebook,No,7.9,7,Single,2,5,21-22,Medium,Good,Normal
+138,21,Female,Graduate,Pakistan,4.8,Instagram,Yes,6.8,5,In Relationship,4,8,21-22,High,Fair,Normal
+139,19,Male,Undergraduate,Sri Lanka,5.3,TikTok,Yes,5.3,6,Single,3,7,18-20,High,Fair,Insufficient
+140,20,Female,Undergraduate,Maldives,4,Instagram,No,8,8,In Relationship,2,5,18-20,Medium,Good,Normal
+141,22,Male,Graduate,Bangladesh,4.7,Facebook,Yes,6.9,5,Single,4,8,21-22,High,Fair,Normal
+142,21,Female,Graduate,India,5.2,Instagram,Yes,5.2,6,In Relationship,3,7,21-22,High,Fair,Insufficient
+143,19,Male,Undergraduate,Nepal,3.9,TikTok,No,8.1,7,Single,2,5,18-20,Medium,Good,High
+144,20,Female,Undergraduate,Pakistan,4.6,Instagram,Yes,7,5,In Relationship,4,8,18-20,High,Fair,Normal
+145,22,Male,Graduate,Sri Lanka,5.1,Facebook,Yes,5.1,6,Single,3,7,21-22,High,Fair,Insufficient
+146,21,Female,Graduate,Maldives,3.8,Instagram,No,8.2,8,In Relationship,2,5,21-22,Medium,Good,High
+147,19,Male,Undergraduate,Bangladesh,4.5,TikTok,Yes,7.1,5,Single,4,8,18-20,High,Fair,Normal
+148,20,Female,Undergraduate,India,5,Instagram,Yes,5,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+149,22,Male,Graduate,Nepal,3.7,Facebook,No,8.3,7,Single,2,5,21-22,Medium,Good,High
+150,21,Female,Graduate,Pakistan,4.4,Instagram,Yes,7.2,5,In Relationship,4,8,21-22,High,Fair,Normal
+151,19,Male,Undergraduate,Sri Lanka,4.9,TikTok,Yes,4.9,6,Single,3,7,18-20,High,Fair,Insufficient
+152,20,Female,Undergraduate,Maldives,3.6,Instagram,No,8.4,8,In Relationship,2,5,18-20,Medium,Good,High
+153,22,Male,Graduate,Bangladesh,4.3,Facebook,Yes,7.3,5,Single,4,8,21-22,High,Fair,Normal
+154,21,Female,Graduate,India,4.8,Instagram,Yes,4.8,6,In Relationship,3,7,21-22,High,Fair,Insufficient
+155,19,Male,Undergraduate,Nepal,3.5,TikTok,No,8.5,7,Single,2,5,18-20,Medium,Good,High
+156,20,Female,Undergraduate,Pakistan,4.2,Instagram,Yes,7.4,5,In Relationship,4,8,18-20,High,Fair,Normal
+157,22,Male,Graduate,Sri Lanka,4.7,Facebook,Yes,4.7,6,Single,3,7,21-22,High,Fair,Insufficient
+158,21,Female,Graduate,Maldives,3.4,Instagram,No,8.6,8,In Relationship,2,5,21-22,Medium,Good,High
+159,19,Male,Undergraduate,Bangladesh,4.1,TikTok,Yes,7.5,5,Single,4,8,18-20,High,Fair,Normal
+160,20,Female,Undergraduate,India,4.6,Instagram,Yes,4.6,6,In Relationship,3,7,18-20,High,Fair,Insufficient
+161,19,Female,Undergraduate,Bangladesh,5.3,Instagram,Yes,6.1,5,Single,3,7,18-20,High,Fair,Normal
+162,21,Male,Graduate,India,4.8,Facebook,No,7.2,7,In Relationship,2,6,21-22,Medium,Good,Normal
+163,20,Female,Undergraduate,Nepal,5.5,TikTok,Yes,5.9,6,Single,4,8,18-20,High,Fair,Insufficient
+164,22,Male,Graduate,Pakistan,4.7,Instagram,Yes,6.3,5,In Relationship,3,7,21-22,High,Fair,Normal
+165,19,Female,Undergraduate,Sri Lanka,5.1,Facebook,No,7,7,Single,2,5,18-20,Medium,Good,Normal
+166,21,Male,Graduate,Maldives,5.4,TikTok,Yes,6,6,In Relationship,4,8,21-22,High,Fair,Normal
+167,20,Female,Undergraduate,Bangladesh,4.9,Instagram,Yes,6.4,5,Single,3,7,18-20,High,Fair,Normal
+168,22,Male,Graduate,India,5.2,Facebook,No,7.1,7,In Relationship,2,6,21-22,Medium,Good,Normal
+169,19,Female,Undergraduate,Nepal,5.6,TikTok,Yes,5.8,6,Single,4,8,18-20,High,Fair,Insufficient
+170,21,Male,Graduate,Pakistan,4.6,Instagram,Yes,6.5,5,In Relationship,3,7,21-22,High,Fair,Normal
+171,20,Female,Undergraduate,Sri Lanka,5,Facebook,No,7.3,7,Single,2,5,18-20,Medium,Good,Normal
+172,22,Male,Graduate,Maldives,5.3,TikTok,Yes,5.7,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+173,19,Female,Undergraduate,Bangladesh,4.8,Instagram,Yes,6.6,5,Single,3,7,18-20,High,Fair,Normal
+174,21,Male,Graduate,India,5.1,Facebook,No,7.4,7,In Relationship,2,6,21-22,Medium,Good,Normal
+175,20,Female,Undergraduate,Nepal,5.7,TikTok,Yes,5.6,6,Single,4,8,18-20,High,Fair,Insufficient
+176,22,Male,Graduate,Pakistan,4.5,Instagram,Yes,6.7,5,In Relationship,3,7,21-22,High,Fair,Normal
+177,19,Female,Undergraduate,Sri Lanka,4.9,Facebook,No,7.5,7,Single,2,5,18-20,Medium,Good,Normal
+178,21,Male,Graduate,Maldives,5.2,TikTok,Yes,5.5,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+179,20,Female,Undergraduate,Bangladesh,4.7,Instagram,Yes,6.8,5,Single,3,7,18-20,High,Fair,Normal
+180,22,Male,Graduate,India,5,Facebook,No,7.6,7,In Relationship,2,6,21-22,Medium,Good,Normal
+181,19,Female,Undergraduate,Nepal,5.8,TikTok,Yes,5.4,6,Single,4,8,18-20,High,Fair,Insufficient
+182,21,Male,Graduate,Pakistan,4.4,Instagram,Yes,6.9,5,In Relationship,3,7,21-22,High,Fair,Normal
+183,20,Female,Undergraduate,Sri Lanka,4.8,Facebook,No,7.7,7,Single,2,5,18-20,Medium,Good,Normal
+184,22,Male,Graduate,Maldives,5.1,TikTok,Yes,5.3,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+185,19,Female,Undergraduate,Bangladesh,4.6,Instagram,Yes,7,5,Single,3,7,18-20,High,Fair,Normal
+186,21,Male,Graduate,India,4.9,Facebook,No,7.8,7,In Relationship,2,6,21-22,Medium,Good,Normal
+187,20,Female,Undergraduate,Nepal,5.9,TikTok,Yes,5.2,6,Single,4,8,18-20,High,Fair,Insufficient
+188,22,Male,Graduate,Pakistan,4.3,Instagram,Yes,7.1,5,In Relationship,3,7,21-22,High,Fair,Normal
+189,19,Female,Undergraduate,Sri Lanka,4.7,Facebook,No,7.9,7,Single,2,5,18-20,Medium,Good,Normal
+190,21,Male,Graduate,Maldives,5,TikTok,Yes,5.1,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+191,20,Female,Undergraduate,Bangladesh,4.5,Instagram,Yes,7.2,5,Single,3,7,18-20,High,Fair,Normal
+192,22,Male,Graduate,India,4.8,Facebook,No,8,7,In Relationship,2,6,21-22,Medium,Good,Normal
+193,19,Female,Undergraduate,Nepal,6,TikTok,Yes,5,6,Single,4,8,18-20,High,Fair,Insufficient
+194,21,Male,Graduate,Pakistan,4.2,Instagram,Yes,7.3,5,In Relationship,3,7,21-22,High,Fair,Normal
+195,20,Female,Undergraduate,Sri Lanka,4.6,Facebook,No,8.1,7,Single,2,5,18-20,Medium,Good,High
+196,22,Male,Graduate,Maldives,4.9,TikTok,Yes,4.9,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+197,19,Female,Undergraduate,Bangladesh,4.4,Instagram,Yes,7.4,5,Single,3,7,18-20,High,Fair,Normal
+198,21,Male,Graduate,India,4.7,Facebook,No,8.2,7,In Relationship,2,6,21-22,Medium,Good,High
+199,20,Female,Undergraduate,Nepal,6.1,TikTok,Yes,4.8,6,Single,4,8,18-20,High,Fair,Insufficient
+200,22,Male,Graduate,Pakistan,4.1,Instagram,Yes,7.5,5,In Relationship,3,7,21-22,High,Fair,Normal
+201,19,Female,Undergraduate,Sri Lanka,4.5,Facebook,No,8.3,7,Single,2,5,18-20,Medium,Good,High
+202,21,Male,Graduate,Maldives,4.8,TikTok,Yes,4.7,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+203,20,Female,Undergraduate,Bangladesh,4.3,Instagram,Yes,7.6,5,Single,3,7,18-20,High,Fair,Normal
+204,22,Male,Graduate,India,4.6,Facebook,No,8.4,7,In Relationship,2,6,21-22,Medium,Good,High
+205,19,Female,Undergraduate,Nepal,6.2,TikTok,Yes,4.6,6,Single,4,8,18-20,High,Fair,Insufficient
+206,21,Male,Graduate,Pakistan,4,Instagram,Yes,7.7,5,In Relationship,3,7,21-22,High,Fair,Normal
+207,20,Female,Undergraduate,Sri Lanka,4.4,Facebook,No,8.5,7,Single,2,5,18-20,Medium,Good,High
+208,22,Male,Graduate,Maldives,4.7,TikTok,Yes,4.5,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+209,19,Female,Undergraduate,Bangladesh,4.2,Instagram,Yes,7.8,5,Single,3,7,18-20,High,Fair,Normal
+210,21,Male,Graduate,India,4.5,Facebook,No,8.6,7,In Relationship,2,6,21-22,Medium,Good,High
+211,20,Female,Undergraduate,Nepal,6.3,TikTok,Yes,4.4,6,Single,4,8,18-20,High,Fair,Insufficient
+212,22,Male,Graduate,Pakistan,3.9,Instagram,Yes,7.9,5,In Relationship,3,7,21-22,High,Fair,Normal
+213,19,Female,Undergraduate,Sri Lanka,4.3,Facebook,No,8.7,7,Single,2,5,18-20,Medium,Good,High
+214,21,Male,Graduate,Maldives,4.6,TikTok,Yes,4.3,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+215,20,Female,Undergraduate,Bangladesh,4.1,Instagram,Yes,8,5,Single,3,7,18-20,High,Fair,Normal
+216,22,Male,Graduate,India,4.4,Facebook,No,8.8,7,In Relationship,2,6,21-22,Medium,Good,High
+217,19,Female,Undergraduate,Nepal,6.4,TikTok,Yes,4.2,6,Single,4,8,18-20,High,Fair,Insufficient
+218,21,Male,Graduate,Pakistan,3.8,Instagram,Yes,8.1,5,In Relationship,3,7,21-22,High,Fair,High
+219,20,Female,Undergraduate,Sri Lanka,4.2,Facebook,No,8.9,7,Single,2,5,18-20,Medium,Good,High
+220,22,Male,Graduate,Maldives,4.5,TikTok,Yes,4.1,6,In Relationship,4,8,21-22,High,Fair,Insufficient
+221,19,Female,Undergraduate,USA,6.5,Instagram,Yes,6,5,Single,4,9,18-20,High,Fair,Normal
+222,21,Male,Graduate,UK,5.8,TikTok,Yes,6.5,6,In Relationship,3,7,21-22,High,Fair,Normal
+223,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.5,8,Single,2,5,18-20,Medium,Good,Normal
+224,22,Male,Graduate,Germany,4.2,Facebook,No,7.8,7,In Relationship,2,4,21-22,Medium,Good,Normal
+225,19,Female,Undergraduate,Japan,3.8,LINE,No,7.9,8,Single,1,3,18-20,Low,Good,Normal
+226,21,Male,Graduate,Italy,5.5,Instagram,Yes,6.8,6,Single,3,7,21-22,High,Fair,Normal
+227,20,Female,Undergraduate,South Korea,5.2,KakaoTalk,Yes,6.5,6,In Relationship,3,6,18-20,Medium,Fair,Normal
+228,22,Male,Graduate,Russia,4.8,VKontakte,No,7.2,7,Single,2,5,21-22,Medium,Good,Normal
+229,19,Female,Undergraduate,USA,7,TikTok,Yes,5.8,4,In Relationship,4,9,18-20,High,Poor,Insufficient
+230,21,Male,Graduate,UK,5.5,Instagram,Yes,6.7,6,Single,3,7,21-22,High,Fair,Normal
+231,20,Female,Undergraduate,Australia,4.7,Facebook,No,7.4,7,In Relationship,2,5,18-20,Medium,Good,Normal
+232,22,Male,Graduate,Germany,4,Instagram,No,7.9,8,Single,1,4,21-22,Medium,Good,Normal
+233,19,Female,Undergraduate,Japan,3.5,LINE,No,8,8,Single,1,3,18-20,Low,Good,Normal
+234,21,Male,Graduate,Italy,5.7,TikTok,Yes,6.5,5,In Relationship,3,8,21-22,High,Fair,Normal
+235,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.8,6,Single,3,6,18-20,Medium,Fair,Normal
+236,22,Male,Graduate,Russia,4.5,VKontakte,No,7.4,7,In Relationship,2,5,21-22,Medium,Good,Normal
+237,19,Female,Undergraduate,USA,6.8,Instagram,Yes,5.9,4,Single,4,9,18-20,High,Poor,Insufficient
+238,21,Male,Graduate,UK,5.6,Facebook,Yes,6.6,6,In Relationship,3,7,21-22,High,Fair,Normal
+239,20,Female,Undergraduate,Australia,4.6,Instagram,No,7.3,7,Single,2,5,18-20,Medium,Good,Normal
+240,22,Male,Graduate,Germany,4.1,Facebook,No,7.7,8,In Relationship,2,4,21-22,Medium,Good,Normal
+241,19,Female,Undergraduate,Japan,3.7,LINE,No,7.8,8,Single,1,3,18-20,Low,Good,Normal
+242,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,21-22,High,Fair,Normal
+243,20,Female,Undergraduate,South Korea,5.1,KakaoTalk,Yes,6.6,6,In Relationship,3,6,18-20,Medium,Fair,Normal
+244,22,Male,Graduate,Russia,4.7,VKontakte,No,7.3,7,Single,2,5,21-22,Medium,Good,Normal
+245,19,Female,Undergraduate,USA,6.9,TikTok,Yes,5.7,4,In Relationship,4,9,18-20,High,Poor,Insufficient
+246,21,Male,Graduate,UK,5.7,Instagram,Yes,6.4,6,Single,3,7,21-22,High,Fair,Normal
+247,20,Female,Undergraduate,Australia,4.8,Facebook,No,7.2,7,In Relationship,2,5,18-20,Medium,Good,Normal
+248,22,Male,Graduate,Germany,3.9,Instagram,No,7.8,8,Single,1,4,21-22,Medium,Good,Normal
+249,19,Female,Undergraduate,Japan,3.6,LINE,No,8.1,8,Single,1,3,18-20,Low,Good,High
+250,21,Male,Graduate,Italy,5.6,TikTok,Yes,6.6,5,In Relationship,3,8,21-22,High,Fair,Normal
+251,20,Female,Undergraduate,South Korea,4.9,KakaoTalk,Yes,6.9,6,Single,3,6,18-20,Medium,Fair,Normal
+252,22,Male,Graduate,Russia,4.6,VKontakte,No,7.5,7,In Relationship,2,5,21-22,Medium,Good,Normal
+253,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.8,4,Single,4,9,18-20,High,Poor,Insufficient
+254,21,Male,Graduate,UK,5.4,Facebook,Yes,6.5,6,In Relationship,3,7,21-22,High,Fair,Normal
+255,20,Female,Undergraduate,Australia,4.4,Instagram,No,7.4,7,Single,2,5,18-20,Medium,Good,Normal
+256,22,Male,Graduate,Germany,4,Facebook,No,7.6,8,In Relationship,2,4,21-22,Medium,Good,Normal
+257,19,Female,Undergraduate,Japan,3.4,LINE,No,8.2,8,Single,1,3,18-20,Low,Good,High
+258,21,Male,Graduate,Italy,5.3,Instagram,Yes,6.8,5,Single,3,7,21-22,High,Fair,Normal
+259,20,Female,Undergraduate,South Korea,5,KakaoTalk,Yes,6.7,6,In Relationship,3,6,18-20,Medium,Fair,Normal
+260,22,Male,Graduate,Russia,4.4,VKontakte,No,7.6,7,Single,2,5,21-22,Medium,Good,Normal
+261,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.6,4,In Relationship,4,9,18-20,High,Poor,Insufficient
+262,21,Male,Graduate,UK,5.3,Instagram,Yes,6.3,6,Single,3,7,21-22,High,Fair,Normal
+263,20,Female,Undergraduate,Australia,4.3,Facebook,No,7.5,7,In Relationship,2,5,18-20,Medium,Good,Normal
+264,22,Male,Graduate,Germany,3.8,Instagram,No,7.7,8,Single,1,4,21-22,Medium,Good,Normal
+265,19,Female,Undergraduate,Japan,3.3,LINE,No,8.3,8,Single,1,3,18-20,Low,Good,High
+266,21,Male,Graduate,Italy,5.2,TikTok,Yes,6.9,5,In Relationship,3,8,21-22,High,Fair,Normal
+267,20,Female,Undergraduate,South Korea,4.8,KakaoTalk,Yes,7,6,Single,3,6,18-20,Medium,Fair,Normal
+268,22,Male,Graduate,Russia,4.3,VKontakte,No,7.7,7,In Relationship,2,5,21-22,Medium,Good,Normal
+269,19,Female,Undergraduate,USA,6.4,Instagram,Yes,5.7,4,Single,4,9,18-20,High,Poor,Insufficient
+270,21,Male,Graduate,UK,5.2,Facebook,Yes,6.4,6,In Relationship,3,7,21-22,High,Fair,Normal
+271,20,Female,Undergraduate,Australia,4.5,Instagram,No,7.3,7,Single,2,5,18-20,Medium,Good,Normal
+272,22,Male,Graduate,Germany,3.7,Facebook,No,7.8,8,In Relationship,1,4,21-22,Medium,Good,Normal
+273,19,Female,Undergraduate,Japan,3.2,LINE,No,8.4,8,Single,1,3,18-20,Low,Good,High
+274,21,Male,Graduate,Italy,5.4,Instagram,Yes,6.7,5,Single,3,7,21-22,High,Fair,Normal
+275,20,Female,Undergraduate,South Korea,4.7,KakaoTalk,Yes,7.1,6,In Relationship,3,6,18-20,Medium,Fair,Normal
+276,22,Male,Graduate,Russia,4.2,VKontakte,No,7.8,7,Single,2,5,21-22,Medium,Good,Normal
+277,19,Female,Undergraduate,USA,6.6,TikTok,Yes,5.5,4,In Relationship,4,9,18-20,High,Poor,Insufficient
+278,21,Male,Graduate,UK,5.1,Instagram,Yes,6.5,6,Single,3,7,21-22,High,Fair,Normal
+279,20,Female,Undergraduate,Australia,4.4,Facebook,No,7.4,7,In Relationship,2,5,18-20,Medium,Good,Normal
+280,22,Male,Graduate,Germany,3.6,Instagram,No,7.9,8,Single,1,4,21-22,Medium,Good,Normal
+281,19,Female,Undergraduate,Japan,3.1,LINE,No,8.5,8,Single,1,3,18-20,Low,Good,High
+282,21,Male,Graduate,Italy,5.3,TikTok,Yes,6.8,5,In Relationship,3,8,21-22,High,Fair,Normal
+283,20,Female,Undergraduate,South Korea,4.6,KakaoTalk,Yes,7.2,6,Single,3,6,18-20,Medium,Fair,Normal
+284,22,Male,Graduate,Russia,4.1,VKontakte,No,7.9,7,In Relationship,2,5,21-22,Medium,Good,Normal
+285,19,Female,Undergraduate,USA,6.7,Instagram,Yes,5.4,4,Single,4,9,18-20,High,Poor,Insufficient
+286,21,Male,Graduate,UK,5,Facebook,Yes,6.6,6,In Relationship,3,7,21-22,High,Fair,Normal
+287,20,Female,Undergraduate,Australia,4.3,Instagram,No,7.5,7,Single,2,5,18-20,Medium,Good,Normal
+288,22,Male,Graduate,Germany,3.5,Facebook,No,8,8,In Relationship,1,4,21-22,Medium,Good,Normal
+289,19,Female,Undergraduate,Japan,3,LINE,No,8.6,8,Single,1,3,18-20,Low,Good,High
+290,21,Male,Graduate,Italy,5.2,Instagram,Yes,6.9,5,Single,3,7,21-22,High,Fair,Normal
+291,20,Female,Undergraduate,South Korea,4.5,KakaoTalk,Yes,7.3,6,In Relationship,3,6,18-20,Medium,Fair,Normal
+292,22,Male,Graduate,Russia,4,VKontakte,No,8,7,Single,2,5,21-22,Medium,Good,Normal
+293,19,Female,Undergraduate,USA,6.8,TikTok,Yes,5.3,4,In Relationship,4,9,18-20,High,Poor,Insufficient
+294,21,Male,Graduate,UK,4.9,Instagram,Yes,6.7,6,Single,3,7,21-22,High,Fair,Normal
+295,20,Female,Undergraduate,Australia,4.2,Facebook,No,7.6,7,In Relationship,2,5,18-20,Medium,Good,Normal
+296,22,Male,Graduate,Germany,3.4,Instagram,No,8.1,8,Single,1,4,21-22,Medium,Good,High
+297,19,Female,Undergraduate,Japan,2.9,LINE,No,8.7,8,Single,1,3,18-20,Low,Good,High
+298,21,Male,Graduate,Italy,5.1,TikTok,Yes,7,5,In Relationship,3,8,21-22,High,Fair,Normal
+299,20,Female,Undergraduate,South Korea,4.4,KakaoTalk,Yes,7.4,6,Single,3,6,18-20,Medium,Fair,Normal
+300,22,Male,Graduate,Russia,3.9,VKontakte,No,8.1,7,In Relationship,2,5,21-22,Medium,Good,High
+301,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.2,4,Single,4,9,18-20,High,Poor,Insufficient
+302,21,Male,Graduate,UK,4.8,Facebook,Yes,6.8,6,In Relationship,3,7,21-22,High,Fair,Normal
+303,20,Female,Undergraduate,Australia,4.1,Instagram,No,7.7,7,Single,2,5,18-20,Medium,Good,Normal
+304,22,Male,Graduate,Germany,3.3,Facebook,No,8.2,8,In Relationship,1,4,21-22,Medium,Good,High
+305,19,Female,Undergraduate,Japan,2.8,LINE,No,8.8,8,Single,1,3,18-20,Low,Good,High
+306,21,Male,Graduate,Italy,5,Instagram,Yes,7.1,5,Single,3,7,21-22,High,Fair,Normal
+307,20,Female,Undergraduate,South Korea,4.3,KakaoTalk,Yes,7.5,6,In Relationship,3,6,18-20,Medium,Fair,Normal
+308,22,Male,Graduate,Russia,3.8,VKontakte,No,8.2,7,Single,2,5,21-22,Medium,Good,High
+309,19,Female,Undergraduate,USA,7,TikTok,Yes,5.1,4,In Relationship,4,9,18-20,High,Poor,Insufficient
+310,21,Male,Graduate,UK,4.7,Instagram,Yes,6.9,6,Single,3,7,21-22,High,Fair,Normal
+311,20,Female,Undergraduate,Australia,4,Facebook,No,7.8,7,In Relationship,2,5,18-20,Medium,Good,Normal
+312,22,Male,Graduate,Germany,3.2,Instagram,No,8.3,8,Single,1,4,21-22,Medium,Good,High
+313,19,Female,Undergraduate,Japan,2.7,LINE,No,8.9,8,Single,1,3,18-20,Low,Good,High
+314,21,Male,Graduate,Italy,4.9,TikTok,Yes,7.2,5,In Relationship,3,8,21-22,High,Fair,Normal
+315,20,Female,Undergraduate,South Korea,4.2,KakaoTalk,Yes,7.6,6,Single,3,6,18-20,Medium,Fair,Normal
+316,22,Male,Graduate,Russia,3.7,VKontakte,No,8.3,7,In Relationship,2,5,21-22,Medium,Good,High
+317,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5,4,Single,4,9,18-20,High,Poor,Insufficient
+318,21,Male,Graduate,UK,4.6,Facebook,Yes,7,6,In Relationship,3,7,21-22,High,Fair,Normal
+319,20,Female,Undergraduate,Australia,3.9,Instagram,No,7.9,7,Single,2,5,18-20,Medium,Good,Normal
+320,22,Male,Graduate,Germany,3.1,Facebook,No,8.4,8,In Relationship,1,4,21-22,Medium,Good,High
+321,19,Female,Undergraduate,Spain,5.2,Instagram,Yes,6.8,6,Single,3,7,18-20,High,Fair,Normal
+322,21,Male,Graduate,Denmark,4.1,Facebook,No,7.8,8,In Relationship,2,4,21-22,Medium,Good,Normal
+323,20,Female,Undergraduate,Ireland,5,Instagram,Yes,7,7,Single,3,6,18-20,Medium,Good,Normal
+324,22,Male,Graduate,India,5.8,WhatsApp,Yes,6.5,5,In Relationship,4,8,21-22,High,Fair,Normal
+325,19,Female,Undergraduate,Switzerland,4,Instagram,No,7.9,8,Single,2,4,18-20,Medium,Good,Normal
+326,21,Male,Graduate,Turkey,5.5,Instagram,Yes,6.7,6,Single,3,7,21-22,High,Fair,Normal
+327,20,Female,Undergraduate,USA,6.8,TikTok,Yes,5.5,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+328,22,Male,Graduate,Mexico,5.6,WhatsApp,Yes,6.6,6,Single,3,7,21-22,High,Fair,Normal
+329,19,Female,Undergraduate,France,4.5,Instagram,No,7.5,7,In Relationship,2,5,18-20,Medium,Good,Normal
+330,21,Male,Graduate,Canada,5.3,Instagram,Yes,6.9,6,Single,3,7,21-22,High,Fair,Normal
+331,20,Female,Undergraduate,Spain,5.1,TikTok,Yes,6.7,6,Single,3,7,18-20,High,Fair,Normal
+332,22,Male,Graduate,Denmark,3.9,Facebook,No,7.9,8,In Relationship,2,4,21-22,Medium,Good,Normal
+333,19,Female,Undergraduate,Ireland,4.8,Instagram,Yes,7.1,7,Single,3,6,18-20,Medium,Good,Normal
+334,21,Male,Graduate,India,5.9,WhatsApp,Yes,6.4,5,In Relationship,4,8,21-22,High,Fair,Normal
+335,20,Female,Undergraduate,Switzerland,3.8,Instagram,No,8,8,Single,2,4,18-20,Medium,Good,Normal
+336,22,Male,Graduate,Turkey,5.4,TikTok,Yes,6.8,6,Single,3,7,21-22,High,Fair,Normal
+337,19,Female,Undergraduate,USA,6.9,Instagram,Yes,5.4,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+338,21,Male,Graduate,Mexico,5.7,WhatsApp,Yes,6.5,6,Single,3,7,21-22,High,Fair,Normal
+339,20,Female,Undergraduate,France,4.4,Instagram,No,7.6,7,In Relationship,2,5,18-20,Medium,Good,Normal
+340,22,Male,Graduate,Canada,5.2,TikTok,Yes,7,6,Single,3,7,21-22,High,Fair,Normal
+341,19,Female,Undergraduate,Spain,5,Instagram,Yes,6.9,6,Single,3,7,18-20,High,Fair,Normal
+342,21,Male,Graduate,Denmark,3.8,Facebook,No,8,8,In Relationship,2,4,21-22,Medium,Good,Normal
+343,20,Female,Undergraduate,Ireland,4.7,TikTok,Yes,7.2,7,Single,3,6,18-20,Medium,Good,Normal
+344,22,Male,Graduate,India,6,WhatsApp,Yes,6.3,5,In Relationship,4,8,21-22,High,Fair,Normal
+345,19,Female,Undergraduate,Switzerland,3.7,Instagram,No,8.1,8,Single,2,4,18-20,Medium,Good,High
+346,21,Male,Graduate,Turkey,5.3,Instagram,Yes,6.9,6,Single,3,7,21-22,High,Fair,Normal
+347,20,Female,Undergraduate,USA,7,TikTok,Yes,5.3,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+348,22,Male,Graduate,Mexico,5.8,WhatsApp,Yes,6.4,6,Single,3,7,21-22,High,Fair,Normal
+349,19,Female,Undergraduate,France,4.3,Instagram,No,7.7,7,In Relationship,2,5,18-20,Medium,Good,Normal
+350,21,Male,Graduate,Canada,5.1,Instagram,Yes,7.1,6,Single,3,7,21-22,High,Fair,Normal
+351,20,Female,Undergraduate,Spain,4.9,TikTok,Yes,7,6,Single,3,7,18-20,High,Fair,Normal
+352,22,Male,Graduate,Denmark,3.7,Facebook,No,8.1,8,In Relationship,2,4,21-22,Medium,Good,High
+353,19,Female,Undergraduate,Ireland,4.6,Instagram,Yes,7.3,7,Single,3,6,18-20,Medium,Good,Normal
+354,21,Male,Graduate,India,6.1,WhatsApp,Yes,6.2,5,In Relationship,4,8,21-22,High,Fair,Normal
+355,20,Female,Undergraduate,Switzerland,3.6,Instagram,No,8.2,8,Single,2,4,18-20,Medium,Good,High
+356,22,Male,Graduate,Turkey,5.2,TikTok,Yes,7,6,Single,3,7,21-22,High,Fair,Normal
+357,19,Female,Undergraduate,USA,7.1,Instagram,Yes,5.2,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+358,21,Male,Graduate,Mexico,5.9,WhatsApp,Yes,6.3,6,Single,3,7,21-22,High,Fair,Normal
+359,20,Female,Undergraduate,France,4.2,Instagram,No,7.8,7,In Relationship,2,5,18-20,Medium,Good,Normal
+360,22,Male,Graduate,Canada,5,TikTok,Yes,7.2,6,Single,3,7,21-22,High,Fair,Normal
+361,19,Female,Undergraduate,Spain,4.8,Instagram,Yes,7.1,6,Single,3,7,18-20,High,Fair,Normal
+362,21,Male,Graduate,Denmark,3.6,Facebook,No,8.2,8,In Relationship,2,4,21-22,Medium,Good,High
+363,20,Female,Undergraduate,Ireland,4.5,TikTok,Yes,7.4,7,Single,3,6,18-20,Medium,Good,Normal
+364,22,Male,Graduate,India,6.2,WhatsApp,Yes,6.1,5,In Relationship,4,8,21-22,High,Fair,Normal
+365,19,Female,Undergraduate,Switzerland,3.5,Instagram,No,8.3,8,Single,2,4,18-20,Medium,Good,High
+366,21,Male,Graduate,Turkey,5.1,Instagram,Yes,7.1,6,Single,3,7,21-22,High,Fair,Normal
+367,20,Female,Undergraduate,USA,7.2,TikTok,Yes,5.1,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+368,22,Male,Graduate,Mexico,6,WhatsApp,Yes,6.2,6,Single,3,7,21-22,High,Fair,Normal
+369,19,Female,Undergraduate,France,4.1,Instagram,No,7.9,7,In Relationship,2,5,18-20,Medium,Good,Normal
+370,21,Male,Graduate,Canada,4.9,Instagram,Yes,7.3,6,Single,3,7,21-22,High,Fair,Normal
+371,20,Female,Undergraduate,Spain,4.7,TikTok,Yes,7.2,6,Single,3,7,18-20,High,Fair,Normal
+372,22,Male,Graduate,Denmark,3.5,Facebook,No,8.3,8,In Relationship,2,4,21-22,Medium,Good,High
+373,19,Female,Undergraduate,Ireland,4.4,Instagram,Yes,7.5,7,Single,3,6,18-20,Medium,Good,Normal
+374,21,Male,Graduate,India,6.3,WhatsApp,Yes,6,5,In Relationship,4,8,21-22,High,Fair,Normal
+375,20,Female,Undergraduate,Switzerland,3.4,Instagram,No,8.4,8,Single,2,4,18-20,Medium,Good,High
+376,22,Male,Graduate,Turkey,5,TikTok,Yes,7.2,6,Single,3,7,21-22,High,Fair,Normal
+377,19,Female,Undergraduate,USA,7.3,Instagram,Yes,5,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+378,21,Male,Graduate,Mexico,6.1,WhatsApp,Yes,6.1,6,Single,3,7,21-22,High,Fair,Normal
+379,20,Female,Undergraduate,France,4,Instagram,No,8,7,In Relationship,2,5,18-20,Medium,Good,Normal
+380,22,Male,Graduate,Canada,4.8,TikTok,Yes,7.4,6,Single,3,7,21-22,High,Fair,Normal
+381,19,Female,Undergraduate,Spain,4.6,Instagram,Yes,7.3,6,Single,3,7,18-20,High,Fair,Normal
+382,21,Male,Graduate,Denmark,3.4,Facebook,No,8.4,8,In Relationship,2,4,21-22,Medium,Good,High
+383,20,Female,Undergraduate,Ireland,4.3,TikTok,Yes,7.6,7,Single,3,6,18-20,Medium,Good,Normal
+384,22,Male,Graduate,India,6.4,WhatsApp,Yes,5.9,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+385,19,Female,Undergraduate,Switzerland,3.3,Instagram,No,8.5,8,Single,2,4,18-20,Medium,Good,High
+386,21,Male,Graduate,Turkey,4.9,Instagram,Yes,7.3,6,Single,3,7,21-22,High,Fair,Normal
+387,20,Female,Undergraduate,USA,7.4,TikTok,Yes,4.9,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+388,22,Male,Graduate,Mexico,6.2,WhatsApp,Yes,6,6,Single,3,7,21-22,High,Fair,Normal
+389,19,Female,Undergraduate,France,3.9,Instagram,No,8.1,7,In Relationship,2,5,18-20,Medium,Good,High
+390,21,Male,Graduate,Canada,4.7,Instagram,Yes,7.5,6,Single,3,7,21-22,High,Fair,Normal
+391,20,Female,Undergraduate,Spain,4.5,TikTok,Yes,7.4,6,Single,3,7,18-20,High,Fair,Normal
+392,22,Male,Graduate,Denmark,3.3,Facebook,No,8.5,8,In Relationship,2,4,21-22,Medium,Good,High
+393,19,Female,Undergraduate,Ireland,4.2,Instagram,Yes,7.7,7,Single,3,6,18-20,Medium,Good,Normal
+394,21,Male,Graduate,India,6.5,WhatsApp,Yes,5.8,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+395,20,Female,Undergraduate,Switzerland,3.2,Instagram,No,8.6,8,Single,2,4,18-20,Medium,Good,High
+396,22,Male,Graduate,Turkey,4.8,TikTok,Yes,7.4,6,Single,3,7,21-22,High,Fair,Normal
+397,19,Female,Undergraduate,USA,7.5,Instagram,Yes,4.8,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+398,21,Male,Graduate,Mexico,6.3,WhatsApp,Yes,5.9,6,Single,3,7,21-22,High,Fair,Insufficient
+399,20,Female,Undergraduate,France,3.8,Instagram,No,8.2,7,In Relationship,2,5,18-20,Medium,Good,High
+400,22,Male,Graduate,Canada,4.6,TikTok,Yes,7.6,6,Single,3,7,21-22,High,Fair,Normal
+401,19,Female,Undergraduate,Spain,4.4,Instagram,Yes,7.5,6,Single,3,7,18-20,High,Fair,Normal
+402,21,Male,Graduate,Denmark,3.2,Facebook,No,8.6,8,In Relationship,2,4,21-22,Medium,Good,High
+403,20,Female,Undergraduate,Ireland,4.1,TikTok,Yes,7.8,7,Single,3,6,18-20,Medium,Good,Normal
+404,22,Male,Graduate,India,6.6,WhatsApp,Yes,5.7,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+405,19,Female,Undergraduate,Switzerland,3.1,Instagram,No,8.7,8,Single,2,4,18-20,Medium,Good,High
+406,21,Male,Graduate,Turkey,4.7,Instagram,Yes,7.5,6,Single,3,7,21-22,High,Fair,Normal
+407,20,Female,Undergraduate,USA,7.6,TikTok,Yes,4.7,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+408,22,Male,Graduate,Mexico,6.4,WhatsApp,Yes,5.8,6,Single,3,7,21-22,High,Fair,Insufficient
+409,19,Female,Undergraduate,France,3.7,Instagram,No,8.3,7,In Relationship,2,5,18-20,Medium,Good,High
+410,21,Male,Graduate,Canada,4.5,Instagram,Yes,7.7,6,Single,3,7,21-22,High,Fair,Normal
+411,20,Female,Undergraduate,Spain,4.3,TikTok,Yes,7.6,6,Single,3,7,18-20,High,Fair,Normal
+412,22,Male,Graduate,Denmark,3.1,Facebook,No,8.7,8,In Relationship,2,4,21-22,Medium,Good,High
+413,19,Female,Undergraduate,Ireland,4,Instagram,Yes,7.9,7,Single,3,6,18-20,Medium,Good,Normal
+414,21,Male,Graduate,India,6.7,WhatsApp,Yes,5.6,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+415,20,Female,Undergraduate,Switzerland,3,Instagram,No,8.8,8,Single,2,4,18-20,Medium,Good,High
+416,22,Male,Graduate,Turkey,4.6,TikTok,Yes,7.6,6,Single,3,7,21-22,High,Fair,Normal
+417,19,Female,Undergraduate,USA,7.7,Instagram,Yes,4.6,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+418,21,Male,Graduate,Mexico,6.5,WhatsApp,Yes,5.7,6,Single,3,7,21-22,High,Fair,Insufficient
+419,20,Female,Undergraduate,France,3.6,Instagram,No,8.4,7,In Relationship,2,5,18-20,Medium,Good,High
+420,22,Male,Graduate,Canada,4.4,TikTok,Yes,7.8,6,Single,3,7,21-22,High,Fair,Normal
+421,19,Female,Undergraduate,Spain,4.2,Instagram,Yes,7.7,6,Single,3,7,18-20,High,Fair,Normal
+422,21,Male,Graduate,Denmark,3,Facebook,No,8.8,8,In Relationship,2,4,21-22,Medium,Good,High
+423,20,Female,Undergraduate,Ireland,3.9,TikTok,Yes,8,7,Single,3,6,18-20,Medium,Good,Normal
+424,22,Male,Graduate,India,6.8,WhatsApp,Yes,5.5,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+425,19,Female,Undergraduate,Switzerland,2.9,Instagram,No,8.9,8,Single,2,4,18-20,Medium,Good,High
+426,21,Male,Graduate,Turkey,4.5,Instagram,Yes,7.7,6,Single,3,7,21-22,High,Fair,Normal
+427,20,Female,Undergraduate,USA,7.8,TikTok,Yes,4.5,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+428,22,Male,Graduate,Mexico,6.6,WhatsApp,Yes,5.6,6,Single,3,7,21-22,High,Fair,Insufficient
+429,19,Female,Undergraduate,France,3.5,Instagram,No,8.5,7,In Relationship,2,5,18-20,Medium,Good,High
+430,21,Male,Graduate,Canada,4.3,Instagram,Yes,7.9,6,Single,3,7,21-22,High,Fair,Normal
+431,20,Female,Undergraduate,Spain,4.1,TikTok,Yes,7.8,6,Single,3,7,18-20,High,Fair,Normal
+432,22,Male,Graduate,Denmark,2.9,Facebook,No,8.9,8,In Relationship,2,4,21-22,Medium,Good,High
+433,19,Female,Undergraduate,Ireland,3.8,Instagram,Yes,8.1,7,Single,3,6,18-20,Medium,Good,High
+434,21,Male,Graduate,India,6.9,WhatsApp,Yes,5.4,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+435,20,Female,Undergraduate,Switzerland,2.8,Instagram,No,9,8,Single,2,4,18-20,Medium,Good,High
+436,22,Male,Graduate,Turkey,4.4,TikTok,Yes,7.8,6,Single,3,7,21-22,High,Fair,Normal
+437,19,Female,Undergraduate,USA,7.9,Instagram,Yes,4.4,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+438,21,Male,Graduate,Mexico,6.7,WhatsApp,Yes,5.5,6,Single,3,7,21-22,High,Fair,Insufficient
+439,20,Female,Undergraduate,France,3.4,Instagram,No,8.6,7,In Relationship,2,5,18-20,Medium,Good,High
+440,22,Male,Graduate,Canada,4.2,TikTok,Yes,8,6,Single,3,7,21-22,High,Fair,Normal
+441,19,Female,Undergraduate,Spain,4,Instagram,Yes,7.9,6,Single,3,7,18-20,High,Fair,Normal
+442,21,Male,Graduate,Denmark,2.8,Facebook,No,9,8,In Relationship,2,4,21-22,Medium,Good,High
+443,20,Female,Undergraduate,Ireland,3.7,TikTok,Yes,8.2,7,Single,3,6,18-20,Medium,Good,High
+444,22,Male,Graduate,India,7,WhatsApp,Yes,5.3,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+445,19,Female,Undergraduate,Switzerland,2.7,Instagram,No,9.1,8,Single,2,4,18-20,Medium,Good,High
+446,21,Male,Graduate,Turkey,4.3,Instagram,Yes,7.9,6,Single,3,7,21-22,High,Fair,Normal
+447,20,Female,Undergraduate,USA,8,TikTok,Yes,4.3,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+448,22,Male,Graduate,Mexico,6.8,WhatsApp,Yes,5.4,6,Single,3,7,21-22,High,Fair,Insufficient
+449,19,Female,Undergraduate,France,3.3,Instagram,No,8.7,7,In Relationship,2,5,18-20,Medium,Good,High
+450,21,Male,Graduate,Canada,4.1,Instagram,Yes,8.1,6,Single,3,7,21-22,High,Fair,High
+451,20,Female,Undergraduate,Spain,3.9,TikTok,Yes,8,6,Single,3,7,18-20,High,Fair,Normal
+452,22,Male,Graduate,Denmark,2.7,Facebook,No,9.1,8,In Relationship,2,4,21-22,Medium,Good,High
+453,19,Female,Undergraduate,Ireland,3.6,Instagram,Yes,8.3,7,Single,3,6,18-20,Medium,Good,High
+454,21,Male,Graduate,India,7.1,WhatsApp,Yes,5.2,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+455,20,Female,Undergraduate,Switzerland,2.6,Instagram,No,9.2,8,Single,2,4,18-20,Medium,Good,High
+456,22,Male,Graduate,Turkey,4.2,TikTok,Yes,8,6,Single,3,7,21-22,High,Fair,Normal
+457,19,Female,Undergraduate,USA,8.1,Instagram,Yes,4.2,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+458,21,Male,Graduate,Mexico,6.9,WhatsApp,Yes,5.3,6,Single,3,7,21-22,High,Fair,Insufficient
+459,20,Female,Undergraduate,France,3.2,Instagram,No,8.8,7,In Relationship,2,5,18-20,Medium,Good,High
+460,22,Male,Graduate,Canada,4,TikTok,Yes,8.2,6,Single,3,7,21-22,High,Fair,High
+461,19,Female,Undergraduate,Spain,3.8,Instagram,Yes,8.1,6,Single,3,7,18-20,High,Fair,High
+462,21,Male,Graduate,Denmark,2.6,Facebook,No,9.2,8,In Relationship,2,4,21-22,Medium,Good,High
+463,20,Female,Undergraduate,Ireland,3.5,TikTok,Yes,8.4,7,Single,3,6,18-20,Medium,Good,High
+464,22,Male,Graduate,India,7.2,WhatsApp,Yes,5.1,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+465,19,Female,Undergraduate,Switzerland,2.5,Instagram,No,9.3,8,Single,2,4,18-20,Medium,Good,High
+466,21,Male,Graduate,Turkey,4.1,Instagram,Yes,8.1,6,Single,3,7,21-22,High,Fair,High
+467,20,Female,Undergraduate,USA,8.2,TikTok,Yes,4.1,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+468,22,Male,Graduate,Mexico,7,WhatsApp,Yes,5.2,6,Single,3,7,21-22,High,Fair,Insufficient
+469,19,Female,Undergraduate,France,3.1,Instagram,No,8.9,7,In Relationship,2,5,18-20,Medium,Good,High
+470,21,Male,Graduate,Canada,3.9,Instagram,Yes,8.3,6,Single,3,7,21-22,High,Fair,High
+471,20,Female,Undergraduate,Spain,3.7,TikTok,Yes,8.2,6,Single,3,7,18-20,High,Fair,High
+472,22,Male,Graduate,Denmark,2.5,Facebook,No,9.3,8,In Relationship,2,4,21-22,Medium,Good,High
+473,19,Female,Undergraduate,Ireland,3.4,Instagram,Yes,8.5,7,Single,3,6,18-20,Medium,Good,High
+474,21,Male,Graduate,India,7.3,WhatsApp,Yes,5,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+475,20,Female,Undergraduate,Switzerland,2.4,Instagram,No,9.4,8,Single,2,4,18-20,Medium,Good,High
+476,22,Male,Graduate,Turkey,4,TikTok,Yes,8.2,6,Single,3,7,21-22,High,Fair,High
+477,19,Female,Undergraduate,USA,8.3,Instagram,Yes,4,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+478,21,Male,Graduate,Mexico,7.1,WhatsApp,Yes,5.1,6,Single,3,7,21-22,High,Fair,Insufficient
+479,20,Female,Undergraduate,France,3,Instagram,No,9,7,In Relationship,2,5,18-20,Medium,Good,High
+480,22,Male,Graduate,Canada,3.8,TikTok,Yes,8.4,6,Single,3,7,21-22,High,Fair,High
+481,19,Female,Undergraduate,Spain,3.6,Instagram,Yes,8.3,6,Single,3,7,18-20,High,Fair,High
+482,21,Male,Graduate,Denmark,2.4,Facebook,No,9.4,8,In Relationship,2,4,21-22,Medium,Good,High
+483,20,Female,Undergraduate,Ireland,3.3,TikTok,Yes,8.6,7,Single,3,6,18-20,Medium,Good,High
+484,22,Male,Graduate,India,7.4,WhatsApp,Yes,4.9,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+485,19,Female,Undergraduate,Switzerland,2.3,Instagram,No,9.5,8,Single,2,4,18-20,Medium,Good,High
+486,21,Male,Graduate,Turkey,3.9,Instagram,Yes,8.3,6,Single,3,7,21-22,High,Fair,High
+487,20,Female,Undergraduate,USA,8.4,TikTok,Yes,3.9,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+488,22,Male,Graduate,Mexico,7.2,WhatsApp,Yes,5,6,Single,3,7,21-22,High,Fair,Insufficient
+489,19,Female,Undergraduate,France,2.9,Instagram,No,9.1,7,In Relationship,2,5,18-20,Medium,Good,High
+490,21,Male,Graduate,Canada,3.7,Instagram,Yes,8.5,6,Single,3,7,21-22,High,Fair,High
+491,20,Female,Undergraduate,Spain,3.5,TikTok,Yes,8.4,6,Single,3,7,18-20,High,Fair,High
+492,22,Male,Graduate,Denmark,2.3,Facebook,No,9.5,8,In Relationship,2,4,21-22,Medium,Good,High
+493,19,Female,Undergraduate,Ireland,3.2,Instagram,Yes,8.7,7,Single,3,6,18-20,Medium,Good,High
+494,21,Male,Graduate,India,7.5,WhatsApp,Yes,4.8,5,In Relationship,4,8,21-22,High,Fair,Insufficient
+495,20,Female,Undergraduate,Switzerland,2.2,Instagram,No,9.6,8,Single,2,4,18-20,Medium,Good,High
+496,22,Male,Graduate,Turkey,3.8,TikTok,Yes,8.4,6,Single,3,7,21-22,High,Fair,High
+497,19,Female,Undergraduate,USA,8.5,Instagram,Yes,3.8,5,In Relationship,4,9,18-20,High,Fair,Insufficient
+498,21,Male,Graduate,Mexico,7.3,WhatsApp,Yes,4.9,6,Single,3,7,21-22,High,Fair,Insufficient
+499,20,Female,Undergraduate,France,2.8,Instagram,No,9.2,7,In Relationship,2,5,18-20,Medium,Good,High
+500,22,Male,Graduate,Canada,3.6,TikTok,Yes,8.6,6,Single,3,7,21-22,High,Fair,High
+501,19,Female,Undergraduate,Brazil,6.2,WhatsApp,Yes,6.3,6,Single,3,7,18-20,High,Fair,Normal
+502,21,Male,Graduate,China,4.5,WeChat,No,7.8,7,In Relationship,2,5,21-22,Medium,Good,Normal
+503,20,Female,Undergraduate,Netherlands,3.8,Instagram,No,8.2,8,Single,2,4,18-20,Medium,Good,High
+504,22,Male,Graduate,New Zealand,4.7,Instagram,Yes,7.5,7,In Relationship,3,6,21-22,Medium,Good,Normal
+505,19,Female,Undergraduate,Singapore,5.1,TikTok,Yes,7,6,Single,3,7,18-20,High,Fair,Normal
+506,21,Male,Graduate,Malaysia,5.5,WhatsApp,Yes,6.8,6,Single,3,7,21-22,High,Fair,Normal
+507,20,Female,Undergraduate,UAE,6.5,Instagram,Yes,6.5,5,In Relationship,4,8,18-20,High,Fair,Normal
+508,22,Male,Graduate,Poland,4.2,Facebook,No,7.9,7,Single,2,5,21-22,Medium,Good,Normal
+509,19,Female,Undergraduate,India,6.8,WhatsApp,Yes,6,5,In Relationship,4,8,18-20,High,Fair,Normal
+510,21,Male,Graduate,Canada,4.8,Instagram,Yes,7.4,7,Single,3,6,21-22,Medium,Good,Normal
+511,20,Female,Undergraduate,Brazil,6.1,Instagram,Yes,6.4,6,Single,3,7,18-20,High,Fair,Normal
+512,22,Male,Graduate,China,4.4,WeChat,No,7.9,7,In Relationship,2,5,21-22,Medium,Good,Normal
+513,19,Female,Undergraduate,Netherlands,3.7,TikTok,No,8.3,8,Single,2,4,18-20,Medium,Good,High
+514,21,Male,Graduate,New Zealand,4.6,Instagram,Yes,7.6,7,In Relationship,3,6,21-22,Medium,Good,Normal
+515,20,Female,Undergraduate,Singapore,5.2,TikTok,Yes,6.9,6,Single,3,7,18-20,High,Fair,Normal
+516,22,Male,Graduate,Malaysia,5.6,WhatsApp,Yes,6.7,6,Single,3,7,21-22,High,Fair,Normal
+517,19,Female,Undergraduate,UAE,6.6,Instagram,Yes,6.4,5,In Relationship,4,8,18-20,High,Fair,Normal
+518,21,Male,Graduate,Poland,4.1,Facebook,No,8,7,Single,2,5,21-22,Medium,Good,Normal
+519,20,Female,Undergraduate,India,6.9,WhatsApp,Yes,5.9,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+520,22,Male,Graduate,Canada,4.7,TikTok,Yes,7.5,7,Single,3,6,21-22,Medium,Good,Normal
+521,19,Female,Undergraduate,Brazil,6,WhatsApp,Yes,6.5,6,Single,3,7,18-20,High,Fair,Normal
+522,21,Male,Graduate,China,4.3,WeChat,No,8,7,In Relationship,2,5,21-22,Medium,Good,Normal
+523,20,Female,Undergraduate,Netherlands,3.6,Instagram,No,8.4,8,Single,2,4,18-20,Medium,Good,High
+524,22,Male,Graduate,New Zealand,4.5,Facebook,Yes,7.7,7,In Relationship,3,6,21-22,Medium,Good,Normal
+525,19,Female,Undergraduate,Singapore,5.3,TikTok,Yes,6.8,6,Single,3,7,18-20,High,Fair,Normal
+526,21,Male,Graduate,Malaysia,5.7,WhatsApp,Yes,6.6,6,Single,3,7,21-22,High,Fair,Normal
+527,20,Female,Undergraduate,UAE,6.7,Instagram,Yes,6.3,5,In Relationship,4,8,18-20,High,Fair,Normal
+528,22,Male,Graduate,Poland,4,Facebook,No,8.1,7,Single,2,5,21-22,Medium,Good,High
+529,19,Female,Undergraduate,India,7,WhatsApp,Yes,5.8,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+530,21,Male,Graduate,Canada,4.6,Instagram,Yes,7.6,7,Single,3,6,21-22,Medium,Good,Normal
+531,20,Female,Undergraduate,Brazil,5.9,TikTok,Yes,6.6,6,Single,3,7,18-20,High,Fair,Normal
+532,22,Male,Graduate,China,4.2,WeChat,No,8.1,7,In Relationship,2,5,21-22,Medium,Good,High
+533,19,Female,Undergraduate,Netherlands,3.5,Instagram,No,8.5,8,Single,2,4,18-20,Medium,Good,High
+534,21,Male,Graduate,New Zealand,4.4,Facebook,Yes,7.8,7,In Relationship,3,6,21-22,Medium,Good,Normal
+535,20,Female,Undergraduate,Singapore,5.4,TikTok,Yes,6.7,6,Single,3,7,18-20,High,Fair,Normal
+536,22,Male,Graduate,Malaysia,5.8,WhatsApp,Yes,6.5,6,Single,3,7,21-22,High,Fair,Normal
+537,19,Female,Undergraduate,UAE,6.8,Instagram,Yes,6.2,5,In Relationship,4,8,18-20,High,Fair,Normal
+538,21,Male,Graduate,Poland,3.9,Facebook,No,8.2,7,Single,2,5,21-22,Medium,Good,High
+539,20,Female,Undergraduate,India,7.1,WhatsApp,Yes,5.7,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+540,22,Male,Graduate,Canada,4.5,TikTok,Yes,7.7,7,Single,3,6,21-22,Medium,Good,Normal
+541,19,Female,Undergraduate,Brazil,5.8,WhatsApp,Yes,6.7,6,Single,3,7,18-20,High,Fair,Normal
+542,21,Male,Graduate,China,4.1,WeChat,No,8.2,7,In Relationship,2,5,21-22,Medium,Good,High
+543,20,Female,Undergraduate,Netherlands,3.4,Instagram,No,8.6,8,Single,2,4,18-20,Medium,Good,High
+544,22,Male,Graduate,New Zealand,4.3,Instagram,Yes,7.9,7,In Relationship,3,6,21-22,Medium,Good,Normal
+545,19,Female,Undergraduate,Singapore,5.5,TikTok,Yes,6.6,6,Single,3,7,18-20,High,Fair,Normal
+546,21,Male,Graduate,Malaysia,5.9,WhatsApp,Yes,6.4,6,Single,3,7,21-22,High,Fair,Normal
+547,20,Female,Undergraduate,UAE,6.9,Instagram,Yes,6.1,5,In Relationship,4,8,18-20,High,Fair,Normal
+548,22,Male,Graduate,Poland,3.8,Facebook,No,8.3,7,Single,2,5,21-22,Medium,Good,High
+549,19,Female,Undergraduate,India,7.2,WhatsApp,Yes,5.6,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+550,21,Male,Graduate,Canada,4.4,Instagram,Yes,7.8,7,Single,3,6,21-22,Medium,Good,Normal
+551,20,Female,Undergraduate,Brazil,5.7,TikTok,Yes,6.8,6,Single,3,7,18-20,High,Fair,Normal
+552,22,Male,Graduate,China,4,WeChat,No,8.3,7,In Relationship,2,5,21-22,Medium,Good,High
+553,19,Female,Undergraduate,Netherlands,3.3,Instagram,No,8.7,8,Single,2,4,18-20,Medium,Good,High
+554,21,Male,Graduate,New Zealand,4.2,Facebook,Yes,8,7,In Relationship,3,6,21-22,Medium,Good,Normal
+555,20,Female,Undergraduate,Singapore,5.6,TikTok,Yes,6.5,6,Single,3,7,18-20,High,Fair,Normal
+556,22,Male,Graduate,Malaysia,6,WhatsApp,Yes,6.3,6,Single,3,7,21-22,High,Fair,Normal
+557,19,Female,Undergraduate,UAE,7,Instagram,Yes,6,5,In Relationship,4,8,18-20,High,Fair,Normal
+558,21,Male,Graduate,Poland,3.7,Facebook,No,8.4,7,Single,2,5,21-22,Medium,Good,High
+559,20,Female,Undergraduate,India,7.3,WhatsApp,Yes,5.5,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+560,22,Male,Graduate,Canada,4.3,TikTok,Yes,7.9,7,Single,3,6,21-22,Medium,Good,Normal
+561,19,Female,Undergraduate,Brazil,5.6,WhatsApp,Yes,6.9,6,Single,3,7,18-20,High,Fair,Normal
+562,21,Male,Graduate,China,3.9,WeChat,No,8.4,7,In Relationship,2,5,21-22,Medium,Good,High
+563,20,Female,Undergraduate,Netherlands,3.2,Instagram,No,8.8,8,Single,2,4,18-20,Medium,Good,High
+564,22,Male,Graduate,New Zealand,4.1,Instagram,Yes,8.1,7,In Relationship,3,6,21-22,Medium,Good,High
+565,19,Female,Undergraduate,Singapore,5.7,TikTok,Yes,6.4,6,Single,3,7,18-20,High,Fair,Normal
+566,21,Male,Graduate,Malaysia,6.1,WhatsApp,Yes,6.2,6,Single,3,7,21-22,High,Fair,Normal
+567,20,Female,Undergraduate,UAE,7.1,Instagram,Yes,5.9,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+568,22,Male,Graduate,Poland,3.6,Facebook,No,8.5,7,Single,2,5,21-22,Medium,Good,High
+569,19,Female,Undergraduate,India,7.4,WhatsApp,Yes,5.4,5,In Relationship,4,8,18-20,High,Fair,Insufficient
+570,21,Male,Graduate,Canada,4.2,Instagram,Yes,8,7,Single,3,6,21-22,Medium,Good,Normal
+571,20,Female,Undergraduate,Spain,6.1,Instagram,Yes,7.2,5,Single,4,7,18-20,High,Fair,Normal
+572,23,Male,Graduate,Denmark,3.8,Twitter,No,7.8,8,In Relationship,2,4,23-24,Medium,Good,Normal
+573,19,Female,Undergraduate,Ireland,5.5,TikTok,Yes,6.8,6,Single,4,8,18-20,High,Fair,Normal
+574,22,Male,Graduate,India,7.2,Facebook,Yes,5.9,4,Single,5,9,21-22,High,Poor,Insufficient
+575,21,Female,Undergraduate,Switzerland,4.2,Instagram,No,7.5,7,In Relationship,2,5,21-22,Medium,Good,Normal
+576,24,Male,Graduate,Turkey,6.8,TikTok,Yes,6.2,5,Single,4,8,23-24,High,Fair,Normal
+577,20,Female,Undergraduate,USA,5.9,Instagram,Yes,6.7,6,In Relationship,3,7,18-20,High,Fair,Normal
+578,22,Male,Graduate,Mexico,6.5,Facebook,Yes,6.1,5,Single,4,8,21-22,High,Fair,Normal
+579,19,Female,Undergraduate,France,4.7,Twitter,No,7.4,7,Single,2,5,18-20,Medium,Good,Normal
+580,23,Male,Graduate,Canada,5.2,Instagram,Yes,7,6,In Relationship,3,6,23-24,Medium,Fair,Normal
+581,21,Female,Undergraduate,UK,6.3,TikTok,Yes,6.4,5,Single,4,8,21-22,High,Fair,Normal
+582,24,Male,Graduate,Italy,4.9,Facebook,No,7.3,7,In Relationship,2,5,23-24,Medium,Good,Normal
+583,20,Female,Undergraduate,Russia,6.7,Instagram,Yes,6,5,Single,4,8,18-20,High,Fair,Normal
+584,22,Male,Graduate,China,5.8,WeChat,Yes,6.5,6,In Relationship,3,7,21-22,High,Fair,Normal
+585,19,Female,Undergraduate,Japan,4.5,Twitter,No,7.6,8,Single,2,4,18-20,Medium,Good,Normal
+586,23,Male,Graduate,Poland,6.4,Facebook,Yes,6.3,5,Single,4,8,23-24,High,Fair,Normal
+587,21,Female,Undergraduate,Finland,4.1,Instagram,No,7.7,7,In Relationship,2,5,21-22,Medium,Good,Normal
+588,24,Male,Graduate,Spain,6.6,TikTok,Yes,6.2,5,Single,4,8,23-24,High,Fair,Normal
+589,20,Female,Undergraduate,Denmark,4.4,Instagram,No,7.4,7,In Relationship,2,5,18-20,Medium,Good,Normal
+590,22,Male,Graduate,Ireland,5.7,Twitter,Yes,6.8,6,Single,3,7,21-22,High,Fair,Normal
+591,19,Female,Undergraduate,India,7,Instagram,Yes,5.8,4,Single,5,9,18-20,High,Poor,Insufficient
+592,23,Male,Graduate,Switzerland,4.3,Facebook,No,7.5,7,In Relationship,2,5,23-24,Medium,Good,Normal
+593,21,Female,Undergraduate,Turkey,6.9,TikTok,Yes,6.1,5,Single,4,8,21-22,High,Fair,Normal
+594,24,Male,Graduate,USA,5.6,Instagram,Yes,6.9,6,In Relationship,3,7,23-24,High,Fair,Normal
+595,20,Female,Undergraduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,8,18-20,High,Fair,Normal
+596,21,Male,Undergraduate,France,5.8,Instagram,Yes,6.7,6,Single,3,7,21-22,High,Fair,Normal
+597,23,Female,Graduate,Canada,4.9,TikTok,No,7.3,7,In Relationship,2,5,23-24,Medium,Good,Normal
+598,20,Male,Undergraduate,UK,6.4,Facebook,Yes,6.2,5,Single,4,8,18-20,High,Fair,Normal
+599,22,Female,Graduate,Italy,5.1,Twitter,No,7.1,7,In Relationship,2,5,21-22,Medium,Good,Normal
+600,19,Male,Undergraduate,Russia,6.7,Instagram,Yes,6,4,Single,4,8,18-20,High,Poor,Normal
+601,24,Female,Graduate,China,5.5,WeChat,Yes,6.8,6,In Relationship,3,7,23-24,High,Fair,Normal
+602,21,Male,Undergraduate,Japan,4.3,Twitter,No,7.6,8,Single,2,4,21-22,Medium,Good,Normal
+603,23,Female,Graduate,Poland,6.2,Instagram,Yes,6.4,5,Single,4,8,23-24,High,Fair,Normal
+604,20,Male,Undergraduate,Finland,4.5,Facebook,No,7.4,7,In Relationship,2,5,18-20,Medium,Good,Normal
+605,22,Female,Graduate,Spain,6.3,TikTok,Yes,6.3,5,Single,4,8,21-22,High,Fair,Normal
+606,19,Male,Undergraduate,Denmark,4.7,Instagram,No,7.2,7,In Relationship,2,5,18-20,Medium,Good,Normal
+607,24,Female,Graduate,Ireland,5.9,Twitter,Yes,6.6,6,Single,3,7,23-24,High,Fair,Normal
+608,21,Male,Undergraduate,India,7.1,Facebook,Yes,5.7,4,Single,5,9,21-22,High,Poor,Insufficient
+609,23,Female,Graduate,Switzerland,4.4,Instagram,No,7.4,7,In Relationship,2,5,23-24,Medium,Good,Normal
+610,20,Male,Undergraduate,Turkey,6.6,TikTok,Yes,6.2,5,Single,4,8,18-20,High,Fair,Normal
+611,22,Female,Graduate,USA,5.4,Instagram,Yes,6.9,6,In Relationship,3,7,21-22,High,Fair,Normal
+612,19,Male,Undergraduate,Mexico,6.5,Facebook,Yes,6.1,5,Single,4,8,18-20,High,Fair,Normal
+613,24,Female,Graduate,France,4.8,Twitter,No,7.3,7,In Relationship,2,5,23-24,Medium,Good,Normal
+614,21,Male,Undergraduate,Canada,5.7,Instagram,Yes,6.7,6,Single,3,7,21-22,High,Fair,Normal
+615,23,Female,Graduate,UK,6.1,TikTok,Yes,6.4,5,Single,4,8,23-24,High,Fair,Normal
+616,20,Male,Undergraduate,Italy,4.6,Facebook,No,7.2,7,In Relationship,2,5,18-20,Medium,Good,Normal
+617,22,Female,Graduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,9,21-22,High,Poor,Insufficient
+618,19,Male,Undergraduate,China,5.6,WeChat,Yes,6.8,6,In Relationship,3,7,18-20,High,Fair,Normal
+619,24,Female,Graduate,Japan,4.2,Twitter,No,7.5,8,Single,2,4,23-24,Medium,Good,Normal
+620,21,Male,Undergraduate,Poland,6.3,TikTok,Yes,6.3,5,Single,4,8,21-22,High,Fair,Normal
+621,23,Female,Graduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,23-24,Medium,Good,Normal
+622,20,Male,Undergraduate,Spain,6.5,Facebook,Yes,6.2,5,Single,4,8,18-20,High,Fair,Normal
+623,22,Female,Graduate,Denmark,4.6,Twitter,No,7.3,7,In Relationship,2,5,21-22,Medium,Good,Normal
+624,19,Male,Undergraduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,18-20,High,Fair,Normal
+625,24,Female,Graduate,India,7,TikTok,Yes,5.8,4,Single,5,9,23-24,High,Poor,Insufficient
+626,21,Male,Undergraduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,5,21-22,Medium,Good,Normal
+627,23,Female,Graduate,Turkey,6.7,Instagram,Yes,6.1,5,Single,4,8,23-24,High,Fair,Normal
+628,20,Male,Undergraduate,USA,5.5,Twitter,Yes,6.8,6,In Relationship,3,7,18-20,High,Fair,Normal
+629,22,Female,Graduate,Mexico,6.4,Facebook,Yes,6.2,5,Single,4,8,21-22,High,Fair,Normal
+630,19,Male,Undergraduate,France,4.7,Instagram,No,7.2,7,In Relationship,2,5,18-20,Medium,Good,Normal
+631,24,Female,Graduate,Canada,5.6,TikTok,Yes,6.7,6,Single,3,7,23-24,High,Fair,Normal
+632,21,Male,Undergraduate,UK,6.2,Facebook,Yes,6.3,5,Single,4,8,21-22,High,Fair,Normal
+633,23,Female,Graduate,Italy,4.8,Twitter,No,7.1,7,In Relationship,2,5,23-24,Medium,Good,Normal
+634,20,Male,Undergraduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,9,18-20,High,Poor,Insufficient
+635,22,Female,Graduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,7,21-22,High,Fair,Normal
+636,19,Male,Undergraduate,Japan,4.4,Twitter,No,7.4,8,Single,2,4,18-20,Medium,Good,Normal
+637,24,Female,Graduate,Poland,6.1,TikTok,Yes,6.4,5,Single,4,8,23-24,High,Fair,Normal
+638,21,Male,Undergraduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,21-22,Medium,Good,Normal
+639,23,Female,Graduate,Spain,6.4,Facebook,Yes,6.2,5,Single,4,8,23-24,High,Fair,Normal
+640,20,Male,Undergraduate,Denmark,4.5,Twitter,No,7.3,7,In Relationship,2,5,18-20,Medium,Good,Normal
+641,22,Female,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,21-22,High,Fair,Normal
+642,19,Male,Undergraduate,India,7.2,TikTok,Yes,5.7,4,Single,5,9,18-20,High,Poor,Insufficient
+643,24,Female,Graduate,Switzerland,4.6,Facebook,No,7.2,7,In Relationship,2,5,23-24,Medium,Good,Normal
+644,21,Male,Undergraduate,Turkey,6.8,Instagram,Yes,6,5,Single,4,8,21-22,High,Fair,Normal
+645,23,Female,Graduate,USA,5.3,Twitter,Yes,6.8,6,In Relationship,3,7,23-24,High,Fair,Normal
+646,22,Male,Graduate,Mexico,6.3,Facebook,Yes,6.2,5,Single,4,8,21-22,High,Fair,Normal
+647,20,Female,Undergraduate,France,4.8,Instagram,No,7.1,7,In Relationship,2,5,18-20,Medium,Good,Normal
+648,23,Male,Graduate,Canada,5.7,TikTok,Yes,6.6,6,Single,3,7,23-24,High,Fair,Normal
+649,21,Female,Undergraduate,UK,6.2,Twitter,Yes,6.3,5,Single,4,8,21-22,High,Fair,Normal
+650,24,Male,Graduate,Italy,4.7,Facebook,No,7.2,7,In Relationship,2,5,23-24,Medium,Good,Normal
+651,19,Female,Undergraduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,9,18-20,High,Poor,Insufficient
+652,22,Male,Graduate,China,5.6,WeChat,Yes,6.7,6,In Relationship,3,7,21-22,High,Fair,Normal
+653,20,Female,Undergraduate,Japan,4.3,Twitter,No,7.5,8,Single,2,4,18-20,Medium,Good,Normal
+654,23,Male,Graduate,Poland,6.2,TikTok,Yes,6.3,5,Single,4,8,23-24,High,Fair,Normal
+655,21,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,21-22,Medium,Good,Normal
+656,24,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,23-24,High,Fair,Normal
+657,19,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7,In Relationship,2,5,18-20,Medium,Good,Normal
+658,22,Male,Graduate,Ireland,5.8,Instagram,Yes,6.6,6,Single,3,7,21-22,High,Fair,Normal
+659,20,Female,Undergraduate,India,7.1,TikTok,Yes,5.8,4,Single,5,9,18-20,High,Poor,Insufficient
+660,23,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,5,23-24,Medium,Good,Normal
+661,21,Female,Undergraduate,Turkey,6.7,Instagram,Yes,6,5,Single,4,8,21-22,High,Fair,Normal
+662,24,Male,Graduate,USA,5.4,Twitter,Yes,6.8,6,In Relationship,3,7,23-24,High,Fair,Normal
+663,19,Female,Undergraduate,Mexico,6.4,TikTok,Yes,6.2,5,Single,4,8,18-20,High,Fair,Normal
+664,22,Male,Graduate,France,4.7,Facebook,No,7.2,7,In Relationship,2,5,21-22,Medium,Good,Normal
+665,20,Female,Undergraduate,Canada,5.6,Instagram,Yes,6.7,6,Single,3,7,18-20,High,Fair,Normal
+666,23,Male,Graduate,UK,6.3,Twitter,Yes,6.2,5,Single,4,8,23-24,High,Fair,Normal
+667,21,Female,Undergraduate,Italy,4.8,TikTok,No,7.1,7,In Relationship,2,5,21-22,Medium,Good,Normal
+668,24,Male,Graduate,Russia,6.9,Instagram,Yes,5.9,4,Single,5,9,23-24,High,Poor,Insufficient
+669,19,Female,Undergraduate,China,5.7,WeChat,Yes,6.7,6,In Relationship,3,7,18-20,High,Fair,Normal
+670,22,Male,Graduate,Japan,4.4,Twitter,No,7.4,8,Single,2,4,21-22,Medium,Good,Normal
+671,20,Female,Undergraduate,Poland,6.1,Facebook,Yes,6.4,5,Single,4,8,18-20,High,Fair,Normal
+672,23,Male,Graduate,Finland,4.3,Instagram,No,7.5,7,In Relationship,2,5,23-24,Medium,Good,Normal
+673,21,Female,Undergraduate,Spain,6.4,TikTok,Yes,6.2,5,Single,4,8,21-22,High,Fair,Normal
+674,24,Male,Graduate,Denmark,4.5,Twitter,No,7.3,7,In Relationship,2,5,23-24,Medium,Good,Normal
+675,19,Female,Undergraduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,18-20,High,Fair,Normal
+676,22,Male,Graduate,India,7.2,Facebook,Yes,5.7,4,Single,5,9,21-22,High,Poor,Insufficient
+677,20,Female,Undergraduate,Switzerland,4.6,TikTok,No,7.2,7,In Relationship,2,5,18-20,Medium,Good,Normal
+678,23,Male,Graduate,Turkey,6.8,Instagram,Yes,6,5,Single,4,8,23-24,High,Fair,Normal
+679,21,Female,Undergraduate,USA,5.3,Twitter,Yes,6.8,6,In Relationship,3,7,21-22,High,Fair,Normal
+680,24,Male,Graduate,Mexico,6.2,Facebook,Yes,6.3,5,Single,4,8,23-24,High,Fair,Normal
+681,19,Female,Undergraduate,France,4.7,Instagram,No,7.2,7,In Relationship,2,5,18-20,Medium,Good,Normal
+682,22,Male,Graduate,Canada,5.8,TikTok,Yes,6.6,6,Single,3,7,21-22,High,Fair,Normal
+683,20,Female,Undergraduate,UK,6.1,Twitter,Yes,6.4,5,Single,4,8,18-20,High,Fair,Normal
+684,23,Male,Graduate,Italy,4.8,Facebook,No,7.1,7,In Relationship,2,5,23-24,Medium,Good,Normal
+685,21,Female,Undergraduate,Russia,6.7,Instagram,Yes,6,4,Single,5,9,21-22,High,Poor,Normal
+686,24,Male,Graduate,China,5.5,WeChat,Yes,6.8,6,In Relationship,3,7,23-24,High,Fair,Normal
+687,19,Female,Undergraduate,Japan,4.2,Twitter,No,7.5,8,Single,2,4,18-20,Medium,Good,Normal
+688,22,Male,Graduate,Poland,6.3,TikTok,Yes,6.2,5,Single,4,8,21-22,High,Fair,Normal
+689,20,Female,Undergraduate,Finland,4.4,Instagram,No,7.4,7,In Relationship,2,5,18-20,Medium,Good,Normal
+690,23,Male,Graduate,Spain,6.5,Facebook,Yes,6.1,5,Single,4,8,23-24,High,Fair,Normal
+691,21,Female,Undergraduate,Denmark,4.6,Twitter,No,7.3,7,In Relationship,2,5,21-22,Medium,Good,Normal
+692,24,Male,Graduate,Ireland,5.9,Instagram,Yes,6.5,6,Single,3,7,23-24,High,Fair,Normal
+693,19,Female,Undergraduate,India,7,TikTok,Yes,5.8,4,Single,5,9,18-20,High,Poor,Insufficient
+694,22,Male,Graduate,Switzerland,4.5,Facebook,No,7.3,7,In Relationship,2,5,21-22,Medium,Good,Normal
+695,20,Female,Undergraduate,Turkey,6.6,Instagram,Yes,6.1,5,Single,4,8,18-20,High,Fair,Normal
+696,23,Male,Graduate,USA,5.5,Twitter,Yes,6.7,6,In Relationship,3,7,23-24,High,Fair,Normal
+697,21,Female,Undergraduate,Mexico,6.3,TikTok,Yes,6.2,5,Single,4,8,21-22,High,Fair,Normal
+698,24,Male,Graduate,France,4.8,Facebook,No,7.1,7,In Relationship,2,5,23-24,Medium,Good,Normal
+699,19,Female,Undergraduate,Canada,5.7,Instagram,Yes,6.6,6,Single,3,7,18-20,High,Fair,Normal
+700,22,Male,Graduate,UK,6.2,Twitter,Yes,6.3,5,Single,4,8,21-22,High,Fair,Normal
+701,20,Female,Undergraduate,Italy,4.7,TikTok,No,7.2,7,In Relationship,2,5,18-20,Medium,Good,Normal
+702,23,Male,Graduate,Russia,6.8,Instagram,Yes,5.9,4,Single,5,9,23-24,High,Poor,Insufficient
+703,21,Female,Undergraduate,China,5.6,WeChat,Yes,6.7,6,In Relationship,3,7,21-22,High,Fair,Normal
+704,24,Male,Graduate,Japan,4.3,Twitter,No,7.5,8,Single,2,4,23-24,Medium,Good,Normal
+705,19,Female,Undergraduate,Poland,6.2,Facebook,Yes,6.3,5,Single,4,8,18-20,High,Fair,Normal
